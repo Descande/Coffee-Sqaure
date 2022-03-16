@@ -291,7 +291,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(/img/cup-coffee-with-pile-coffee-beans.jpg) no-repeat;
+    background: url(./img/cup-coffee-with-pile-coffee-beans.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
